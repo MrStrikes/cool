@@ -1,6 +1,4 @@
 *~
 /vendor
 composer.phar
-/config/config.php
-/config/config.yml
-.DS_Store
+/config/parameters.yml
